@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-# Sanskriti Setu - Cultural Exchange Platform
-
-**SIH 2024 Problem Statement ID: 25130**
-
-*Ideas that showcase the rich cultural heritage and traditions of India*
-
----
+# Sanskriti Setu
+***India's First Diaspora Specific Cultural Exchange Platform***
 
 ## 🌟 Project Overview
 
@@ -73,6 +67,5 @@ To create meaningful connections between people from different Indian states, en
 
 ---
 
-=======
-# sanskriti-setu-main
->>>>>>> 0fd6983ad0612d47f9034cd4401953816e568622
+
+SIH 2025 Problem Statement ID: 25130 (*Ideas that showcase the rich cultural heritage and traditions of India*)
